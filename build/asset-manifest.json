@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/kickstarter/static/js/main.06064f01.js",
+    "index.html": "/kickstarter/index.html",
+    "main.06064f01.js.map": "/kickstarter/static/js/main.06064f01.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.06064f01.js"
+  ]
+}
