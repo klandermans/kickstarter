@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kickstarter/static/css/main.1a13f07b.css",
+    "main.css": "/kickstarter/static/css/main.c89f692f.css",
     "main.js": "/kickstarter/static/js/main.f55e7dbd.js",
     "index.html": "/kickstarter/index.html",
-    "main.1a13f07b.css.map": "/kickstarter/static/css/main.1a13f07b.css.map",
+    "main.c89f692f.css.map": "/kickstarter/static/css/main.c89f692f.css.map",
     "main.f55e7dbd.js.map": "/kickstarter/static/js/main.f55e7dbd.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a13f07b.css",
+    "static/css/main.c89f692f.css",
     "static/js/main.f55e7dbd.js"
   ]
 }
