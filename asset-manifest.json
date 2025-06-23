@@ -1,10 +1,13 @@
 {
   "files": {
+    "main.css": "/kickstarter/static/css/main.1a13f07b.css",
     "main.js": "/kickstarter/static/js/main.f55e7dbd.js",
     "index.html": "/kickstarter/index.html",
+    "main.1a13f07b.css.map": "/kickstarter/static/css/main.1a13f07b.css.map",
     "main.f55e7dbd.js.map": "/kickstarter/static/js/main.f55e7dbd.js.map"
   },
   "entrypoints": [
+    "static/css/main.1a13f07b.css",
     "static/js/main.f55e7dbd.js"
   ]
 }
